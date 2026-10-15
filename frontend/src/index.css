@@ -1,0 +1,13 @@
+html, body, #root {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100vw !important;
+  min-height: 100vh !important;
+  max-width: 100vw !important;
+  overflow-x: hidden !important;
+  background-color: #020406 !important;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,17 @@
+# Python Virtual Environments & Cache
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.joblib.tmp
+
+# Node.js Dependencies & Builds
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Database & Environment Secrets
+*.db
+*.sqlite3
+.env
+.DS_Store
